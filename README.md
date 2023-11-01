@@ -2,6 +2,8 @@
 <h3 align="center">I'm Chang and I'm majoring in Technical Systems Management with a focus in Computer Science and a minor in Applied Math and Science.</h3>
 
 
+
+
 - 🔭 I’m currently working on **my Personal Website**
 
 - 🌱 I’m currently learning **about SQL, MySQL,  Database Design**
