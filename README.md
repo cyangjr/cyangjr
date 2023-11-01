@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeoshadow&label=Profile%20views&color=0e75b6&style=flat" alt="zeoshadow" /> </p>
 
-- 🔭 I’m currently working on **Personal Website**
+- 🔭 I’m currently working on **my Personal Website**
 
-- 🌱 I’m currently learning **SQL and Database Design**
+- 🌱 I’m currently learning **about SQL, MySQL,  Database Design**
 
 - 📫 How to reach me **cyangjr@gmail.com**
 
