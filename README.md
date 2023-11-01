@@ -1,7 +1,6 @@
 <h1 align="center">Hey there!</h1>
 <h3 align="center">I'm Chang and I'm majoring in Technical Systems Management with a focus in Computer Science and a minor in Applied Math and Science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeoshadow&label=Profile%20views&color=0e75b6&style=flat" alt="zeoshadow" /> </p>
 
 - 🔭 I’m currently working on **my Personal Website**
 
