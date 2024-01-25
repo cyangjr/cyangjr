@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my Personal Website**
 
-- 🌱 I’m currently learning **about SQL, MySQL,  Database Design**
+- 🌱 I’m currently learning **about Databases, Numerical Analysis, Statistics and Probability**
 
 - 📫 How to reach me **cyangjr@gmail.com**
 
